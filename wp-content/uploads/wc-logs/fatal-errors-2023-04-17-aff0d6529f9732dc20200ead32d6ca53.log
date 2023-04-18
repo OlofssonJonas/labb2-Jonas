@@ -1,0 +1,272 @@
+2023-04-17T19:46:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:28+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:28+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:29+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T19:46:29+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:19:30+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:19:30+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:19:31+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:19:32+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:19:33+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:20:04+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:20:04+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:20:05+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:20:06+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:20:09+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:20:10+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:20:55+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:20:57+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:20:57+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:20:58+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:21:00+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:21:01+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:21:02+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+
+2023-04-17T20:21:03+00:00 CRITICAL Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/MyChildTheme/index.php på rad 2
+

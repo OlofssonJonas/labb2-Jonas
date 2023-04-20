@@ -1,0 +1,46 @@
+2023-04-19T20:00:04+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/functions.php:7110
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/class-wp-hook.php(308): wp_auth_check_load('')
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/blocksy/header.php(23): do_action('admin_enqueue_s...')
+#4 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template.php(783): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template.php(718): load_template('/Applications/M...', true, Array)
+#6 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#7 /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/blocksy/single.php(10): get_header()
+#8 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template.php(785): require('/Applications/M...')
+#9 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template.php(718): load_template('/Applications/M...', false, Array)
+#10 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#11 /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/blocksy/page.php(15): get_template_part('single')
+#12 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include('/Applications/M...')
+#13 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#14 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#15 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/functions.php på rad 7110
+
+2023-04-19T20:09:34+00:00 CRITICAL syntax error, unexpected end of file i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/blocksy-child/functions.php på rad 13
+
+2023-04-19T20:09:39+00:00 CRITICAL syntax error, unexpected end of file i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/blocksy-child/functions.php på rad 13
+
+2023-04-19T20:09:40+00:00 CRITICAL syntax error, unexpected end of file i /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/blocksy-child/functions.php på rad 13
+
+2023-04-19T20:11:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/functions.php:7110
+Stack trace:
+#0 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/class-wp-hook.php(308): wp_auth_check_load('')
+#1 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/blocksy/header.php(23): do_action('admin_enqueue_s...')
+#4 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template.php(783): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template.php(718): load_template('/Applications/M...', true, Array)
+#6 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#7 /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/blocksy/single.php(10): get_header()
+#8 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template.php(785): require('/Applications/M...')
+#9 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template.php(718): load_template('/Applications/M...', false, Array)
+#10 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#11 /Applications/MAMP/htdocs/labb2-Jonas/wp-content/themes/blocksy/page.php(15): get_template_part('single')
+#12 /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/template-loader.php(106): include('/Applications/M...')
+#13 /Applications/MAMP/htdocs/labb2-Jonas/wp-blog-header.php(19): require_once('/Applications/M...')
+#14 /Applications/MAMP/htdocs/labb2-Jonas/index.php(17): require('/Applications/M...')
+#15 {main}
+  thrown i /Applications/MAMP/htdocs/labb2-Jonas/wp-includes/functions.php på rad 7110
+

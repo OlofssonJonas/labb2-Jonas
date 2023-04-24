@@ -1,0 +1,19 @@
+Jag började med att installera wordpress tillsammans med tillägget woocoomerce och temat blocksy
+som jag tyckte var ett riktigt snyggt och passande tema till en webshop.
+Efter det så la jag till lite olika produkter i woocommerce med olika attribut, varianter, pris,
+samt att jag la till momssats och fraktalternativ i adminpanelen i wordpress.
+Jag lade till produkter utefter mitt intresse, att vara ute i löparspåret.
+
+Jag gjorde ett eget tillägg vilket innehåller en funktion som byter ut alla o mot 🤘 i the_title.
+
+Jag gjorde också ett eget barntema till mitt föräldrartema blocksy som jag döpte till blocksy-child,
+jag aktiverade barntemat.
+
+I barntemat valde jag att göra en template override så jag letade upp vägen till my-account.php
+och gjorde den mappstrukturen i mitt barntema och skrev in ett litet meddelande som skrivs ut på
+sidan mitt konto.
+
+I barntemat har jag en add_action som lägger till en textsträng ovanför bilden på singelsidan.
+Jag gjorde även en remove_action som tar bort priset på singelsidan.
+
+

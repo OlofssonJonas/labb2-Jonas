@@ -1,4 +1,4 @@
-<?php
+c<?php
 /**
  * My Account page
  *
@@ -15,7 +15,7 @@
  * @version 3.5.0
  */
 
-defined( 'ABSPATH' ) || exit;
+ defined( 'ABSPATH' ) || exit;
 
 /**
  * My Account navigation.
@@ -23,7 +23,7 @@ defined( 'ABSPATH' ) || exit;
  * @since 2.6.0
  */
 if (blocksy_woocommerce_has_account_customizations()) {
-	echo '<div class="ct-acount-nav">';
+	 echo '<div class="ct-acount-nav">';
 }
 
 do_action('woocommerce_account_navigation');
@@ -32,7 +32,9 @@ if (blocksy_woocommerce_has_account_customizations()) {
 	echo '</div>';
 }
 
+
 ?>
+<h1><?php echo "Hej från template override	"; ?></h1>
 
 <div class="woocommerce-MyAccount-content">
 	<?php
@@ -44,5 +46,5 @@ if (blocksy_woocommerce_has_account_customizations()) {
 		do_action( 'woocommerce_account_content' );
 	?>
 </div>
-<h1><?php echo 'Hej från my account!'; ?></h1>
+
 
